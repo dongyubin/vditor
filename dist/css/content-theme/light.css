@@ -1,7 +1,7 @@
 .vditor-reset h1,
 .vditor-reset h2 {
     padding-bottom: .3em;
-    border-bottom: 1px solid #eaecef
+    /* border-bottom: 1px solid #eaecef */
 }
 
 .vditor-reset hr {
