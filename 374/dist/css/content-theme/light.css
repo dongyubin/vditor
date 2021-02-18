@@ -37,8 +37,8 @@
 
 .vditor-reset blockquote {
     color: #6a737d;
-    /* border-left: .25em solid #eaecef; */
-    border-left: 10px solid rgb(143, 173, 225);
+    /* border-left: .25em solid #eaecef; 
+    border-left: 10px solid rgb(143, 173, 225);*/
 }
 
 .vditor-reset iframe {
